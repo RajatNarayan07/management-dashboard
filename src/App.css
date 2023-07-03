@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+
+.navClass{
+  background-image: linear-gradient(to right, rgba(105, 160, 192, 0.3), rgba(112, 43, 112, 0.3));
+}

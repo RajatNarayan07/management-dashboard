@@ -1,0 +1,18 @@
+.paragraph-text{
+    font-weight: bold;
+    color: rgb(36, 7, 73);
+    /* background-color: black; */
+    background: -webkit-linear-gradient(0deg,#0dcaf0, #4fa2b3);
+    margin-block: 5px;
+    padding-block: 10px;
+    padding: 10px;
+ }
+
+ .navbar-background{
+    color: white;
+    /* font-style: oblique; */
+    padding: 7px;
+    margin: 15px;
+    background: -webkit-linear-gradient(0deg,#ce8314, #4fa2b3);
+    font-weight: 400;
+ }
