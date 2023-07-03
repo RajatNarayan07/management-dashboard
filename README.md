@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is just a demonstration of how can we use react js with Apache Echarts.
 
 ## Available Scripts
 
