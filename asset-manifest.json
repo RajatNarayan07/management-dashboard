@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RajatNarayan07/management-dashboard.git/static/css/main.bf96abbd.css",
+    "main.js": "/RajatNarayan07/management-dashboard.git/static/js/main.74591b2e.js",
+    "static/js/787.b3038a09.chunk.js": "/RajatNarayan07/management-dashboard.git/static/js/787.b3038a09.chunk.js",
+    "static/media/logo.svg": "/RajatNarayan07/management-dashboard.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RajatNarayan07/management-dashboard.git/index.html",
+    "main.bf96abbd.css.map": "/RajatNarayan07/management-dashboard.git/static/css/main.bf96abbd.css.map",
+    "main.74591b2e.js.map": "/RajatNarayan07/management-dashboard.git/static/js/main.74591b2e.js.map",
+    "787.b3038a09.chunk.js.map": "/RajatNarayan07/management-dashboard.git/static/js/787.b3038a09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf96abbd.css",
+    "static/js/main.74591b2e.js"
+  ]
+}
